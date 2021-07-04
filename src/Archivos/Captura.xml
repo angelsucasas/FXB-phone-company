@@ -1,0 +1,18 @@
+<captura>
+  <Captura>
+    <nombre>Grupo 1</nombre>
+    <lider>Grupo 1</lider>
+    <EXT1>1111</EXT1>
+    <EXT2>2222</EXT2>
+    <EXT3>3333</EXT3>
+    <EXT4>4444</EXT4>
+  </Captura>
+  <Captura>
+    <nombre>Prueba Captura</nombre>
+    <lider>Moises</lider>
+    <EXT1>1212</EXT1>
+    <EXT2>3030</EXT2>
+    <EXT3>0</EXT3>
+    <EXT4>4040</EXT4>
+  </Captura>
+</captura>

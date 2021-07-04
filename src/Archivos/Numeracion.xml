@@ -1,0 +1,26 @@
+<numeracion>
+  <Numeracion>
+    <EXT>1111</EXT>
+    <b>false</b>
+  </Numeracion>
+  <Numeracion>
+    <EXT>2222</EXT>
+    <b>false</b>
+  </Numeracion>
+  <Numeracion>
+    <EXT>3333</EXT>
+    <b>false</b>
+  </Numeracion>
+  <Numeracion>
+    <EXT>4444</EXT>
+    <b>false</b>
+  </Numeracion>
+  <Numeracion>
+    <EXT>5555</EXT>
+    <b>false</b>
+  </Numeracion>
+  <Numeracion>
+    <EXT>7777</EXT>
+    <b>true</b>
+  </Numeracion>
+</numeracion>

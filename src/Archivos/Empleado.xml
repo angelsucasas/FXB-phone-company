@@ -1,0 +1,42 @@
+<empleado>
+  <Empleado>
+    <EXT>9999</EXT>
+    <b>true</b>
+    <cedula>20202020</cedula>
+    <nombre>Prueba Empleado1</nombre>
+    <cargo>gerente</cargo>
+    <dpto>RRHH</dpto>
+  </Empleado>
+  <Empleado>
+    <EXT>9999</EXT>
+    <b>true</b>
+    <cedula>18570600</cedula>
+    <nombre>Prueba Empleado2</nombre>
+    <cargo>arquitecto</cargo>
+    <dpto>mantenimiento</dpto>
+  </Empleado>
+  <Empleado>
+    <EXT>1234</EXT>
+    <b>true</b>
+    <cedula>123</cedula>
+    <nombre>Prubea Agregar</nombre>
+    <cargo>Gerente</cargo>
+    <dpto>Telecomunicaciones</dpto>
+  </Empleado>
+  <Empleado>
+    <EXT>1212</EXT>
+    <b>true</b>
+    <cedula>333</cedula>
+    <nombre>Prueba Agregar</nombre>
+    <cargo>ninguno</cargo>
+    <dpto>ninguno</dpto>
+  </Empleado>
+  <Empleado>
+    <EXT>722</EXT>
+    <b>true</b>
+    <cedula>32461567</cedula>
+    <nombre>samuel</nombre>
+    <cargo>jefe</cargo>
+    <dpto>22</dpto>
+  </Empleado>
+</empleado>

@@ -1,0 +1,74 @@
+<analogicas>
+  <Analogicas>
+    <EXT>8888</EXT>
+    <b>true</b>
+    <nombre>Prueba Agregar</nombre>
+    <categoria>4</categoria>
+    <desvio>7877</desvio>
+    <date>Wed Jun 06 13:40:06 VET 2018</date>
+  </Analogicas>
+  <Analogicas>
+    <EXT>9999</EXT>
+    <b>true</b>
+    <nombre>Categoria Defi</nombre>
+    <categoria>2</categoria>
+    <desvio>1111</desvio>
+    <date>Wed Jun 06 15:57:08 VET 2018</date>
+  </Analogicas>
+  <Analogicas>
+    <EXT>1111</EXT>
+    <b>true</b>
+    <nombre>Prueba Modificar</nombre>
+    <categoria>0</categoria>
+    <desvio>9999</desvio>
+    <date>Thu Jun 07 17:32:56 VET 2018</date>
+  </Analogicas>
+  <Analogicas>
+    <EXT>4545</EXT>
+    <b>true</b>
+    <nombre>prueba1</nombre>
+    <categoria>0</categoria>
+    <desvio>1111</desvio>
+    <date>Fri Jun 08 17:42:23 VET 2018</date>
+  </Analogicas>
+  <Analogicas>
+    <EXT>9696</EXT>
+    <b>true</b>
+    <nombre>Prueba90</nombre>
+    <categoria>4</categoria>
+    <desvio>7078</desvio>
+    <date>Thu Jun 07 17:46:31 VET 2018</date>
+  </Analogicas>
+  <Analogicas>
+    <EXT>6868</EXT>
+    <b>true</b>
+    <nombre>Prueba91</nombre>
+    <categoria>4</categoria>
+    <desvio>1111</desvio>
+    <date>Thu Jun 07 17:56:54 VET 2018</date>
+  </Analogicas>
+  <Analogicas>
+    <EXT>1818</EXT>
+    <b>true</b>
+    <nombre>Prueba19</nombre>
+    <categoria>4</categoria>
+    <desvio>8787</desvio>
+    <date>Thu Jun 07 18:03:47 VET 2018</date>
+  </Analogicas>
+  <Analogicas>
+    <EXT>1234</EXT>
+    <b>true</b>
+    <nombre>Luis Mesa</nombre>
+    <categoria>3</categoria>
+    <desvio>4321</desvio>
+    <date>Fri Jun 08 08:57:05 BOT 2018</date>
+  </Analogicas>
+  <Analogicas>
+    <EXT>1212</EXT>
+    <b>true</b>
+    <nombre>nueva</nombre>
+    <categoria>2</categoria>
+    <desvio>4545</desvio>
+    <date>Fri Jun 08 11:10:17 BOT 2018</date>
+  </Analogicas>
+</analogicas>
